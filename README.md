@@ -1,2 +1,2 @@
 # Sensor-Data-Analysis-using-Spark-Streaming-MapReduce
-Created Spark Streaming Application that explores evolution of wind speeds in bi-dimensional space with data streaming every 10 secs
+Analyzed Sensor Data (IoT) capturing Wind intensity in Bi-Dimensional Space using Spark Streaming in AWS cluster. Created Spark Streaming Application that analyzes wind speeds intensity in bi-dimensional space with data streaming every 10 secs. Combined streaming with batch processing and analyzed 2 GB datasets using DStream, PySpark, Python and Map-Reduce. 
